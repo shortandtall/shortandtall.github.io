@@ -1,2 +1,2 @@
-# thompson-water.github.io
-Thompson Water
+# shortandtall.github.io
+Short and Tall
